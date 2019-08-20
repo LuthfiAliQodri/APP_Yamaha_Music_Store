@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Yamaha Music Store</string>
+    <string name="yamaha_name">Nama Brand :</string>
+    <string name="price">Harga :</string>
+    <string name="description">Deskripsi :</string>
+    <string name="readmore">Read More </string>
+
+    <string-array name="pilihbarang">
+        <item >--Pilih--</item>
+        <item   >YAMAHA Revstar Series RS420 - Factory Blue</item>
+        <item   >YAMAHA Pacifica Series PAC112V - Silver</item>
+        <item   >YAMAHA Revstar Series RS320 - Black Steel</item>
+        <item   >YAMAHA Pacifica Series PAC212VFM - Tobacco Brown Sunburst</item>
+    </string-array>
+
+
+</resources>
